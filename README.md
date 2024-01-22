@@ -1,2 +1,12 @@
 # SimpleOS
-Lightweight OS made in C# using COSMOS
+## Commands
+```
+help
+shutdown
+reboot
+```
+## TODO
+- Filesystem
+- Networking
+- Basic Commands
+- GUI
